@@ -112,20 +112,20 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 50%
+        level: 25%
 
       - name: Javascript & ReactJS
-        level: 60%
+        level: 30%
 
       - name: Angular, C#
-        level: 40%
+        level: 20%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 40%
 
       - name: C++
-        level: 85%
+        level: 50%
 
       - name: Java
-        level: 80%
+        level: 50%
 
