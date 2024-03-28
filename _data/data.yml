@@ -91,6 +91,10 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: CS Plane
+        tagline:
+          Our team consists of 2 members.
+          My group's task in this project is to make a plane shooting game developed in C++ SDL. With this project, I understand how to divide objects in C++, how to divide group work
       - title: Car Registration Website
         tagline: 
           I am a member of a group of 3 people. 
