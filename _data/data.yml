@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Nguyen Thanh Son
-    tagline: Intern Web Developer
+    tagline: C++ Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -107,25 +107,25 @@ projects:
           Throughout the project, I developed team schedule, including quality measurement for each weekly milestone. 
           Project develop by Java Android Studio and analysis and design documents are drawn using the Plantuml tool.
           I develop front-end components and direct member to write document for project.
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 25%
+#     toolset:
+#       - name: Python & Django
+#         level: 25%
 
-      - name: Javascript & ReactJS
-        level: 30%
+#       - name: Javascript & ReactJS
+#         level: 30%
 
-      - name: Angular, C#
-        level: 20%
+#       - name: Angular, C#
+#         level: 20%
 
-      - name: HTML5 & CSS
-        level: 40%
+#       - name: HTML5 & CSS
+#         level: 40%
 
-      - name: C++
-        level: 50%
+#       - name: C++
+#         level: 50%
 
-      - name: Java
-        level: 50%
+#       - name: Java
+#         level: 50%
 
